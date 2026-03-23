@@ -1,0 +1,6 @@
+@Shar_RequestApproval.API_HostAddress = http://localhost:5190
+
+GET {{Shar_RequestApproval.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
